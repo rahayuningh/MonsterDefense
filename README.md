@@ -17,3 +17,5 @@ Pemain harus mencegah musuh sebelum mencapai (?). Caranya adalah dengan membangu
 ## Concept dan Environment
 
 ## Action
+
+## Player
