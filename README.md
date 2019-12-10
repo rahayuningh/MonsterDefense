@@ -15,6 +15,7 @@ Elemen gameplay dasar MonsterDefense adalah:
 - wilayah, kerajaan, dan anak Kerjaan Brevis yang harus dipertahankan oleh pemain
 - berbagai gelombang "musuh Mutans" masuk yang harus dipertahankan
 - penempatan elemen "Prajurit" di sepanjang jalur musuh yang menyerang
+
 Fitur pertahanan MonsterDefense:
 - Pemain menempatkan "Prajurit" yang dapat membunuh musuh Mutans sebelum menghancurkan dan membunuh anak-anak Kerajaan Brevis
 - Kemampuan untuk meningkatkan kekuatan "Prajurit"
