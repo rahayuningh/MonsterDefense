@@ -31,6 +31,8 @@
 using UnityEngine;
 using System.Collections;
 
+// hslo ini contoh comment
+
 public class BulletBehavior : MonoBehaviour
 {
 
