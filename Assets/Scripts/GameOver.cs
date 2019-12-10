@@ -35,9 +35,10 @@ using UnityEngine.SceneManagement;
 public class GameOver : MonoBehaviour
 {
 
-    void RestartLevel()
+    void EndLevel()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+//        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        SceneManager.LoadScene("FirstPage");
     }
 
 }
