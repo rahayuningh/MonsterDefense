@@ -44,4 +44,8 @@ Pemain menempatkan para prajurit di wilayah yang strategis unuk melindungi Keraj
 | Sublime 3.2.2  | Mengetik script menggunakan bahasa C# |
 
 ## Screenshot Game
+Main Menu <br />
+!(First Page.png) <br />
 
+Gameplay dan Help <br />
+!(Game.png) <br />
