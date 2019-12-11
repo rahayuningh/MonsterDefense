@@ -45,7 +45,7 @@ Pemain menempatkan para prajurit di wilayah yang strategis unuk melindungi Keraj
 
 ## Screenshot Game
 Main Menu <br />
-![Start](First Page.png) <br />
+![Start](https://github.com/rahayuningh/MonsterDefense/blob/master/First%20Page.png) <br />
 
 Gameplay dan Help <br />
 !.(Game.png) <br />
