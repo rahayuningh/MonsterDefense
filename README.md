@@ -40,9 +40,7 @@ Pemain menempatkan para prajurit di wilayah yang strategis unuk melindungi Keraj
 | Teknologi | Fungsi |
 | ----- | ----- |
 | Unity 2017.4.0f1 | Mengatur pembuatan game, pengolahan aset, penggunaan script, dan kolaborasi | 
-| ----- | ----- |
 | Github  | Kolaborasi dan penyimpanan repository |
-| ----- | ----- |
 | Sublime 3.2.2  | Mengetik script menggunakan bahasa C# |
 
 ## Screenshot Game
