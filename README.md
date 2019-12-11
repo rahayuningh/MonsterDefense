@@ -44,8 +44,6 @@ Pemain menempatkan para prajurit di wilayah yang strategis unuk melindungi Keraj
 | Sublime 3.2.2  | Mengetik script menggunakan bahasa C# |
 
 ## Screenshot Game
-Main Menu <br />
-![Start](https://github.com/rahayuningh/MonsterDefense/blob/master/First%20Page.png) <br />
-
-Gameplay dan Help <br />
-!.(Game.png) <br />
+| Main Menu | Gameplay dan Help |
+| ----- | ----- |
+| ![Start](https://github.com/rahayuningh/MonsterDefense/blob/master/First%20Page.png) | ![Gameplay](https://github.com/rahayuningh/MonsterDefense/blob/master/Game.png) |
