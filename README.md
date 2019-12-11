@@ -25,17 +25,25 @@ Fitur pertahanan MonsterDefense:
 Pemain harus mencegah musuh sebelum mencapai Kerajaan Monster Brevis. Caranya dengan menempatkan para "Prajurit" di wilayah yang stategis yang dilewati oleh "musuh Mutans". Setiap kali ada musuh yang mati, maka pemain akan mendapat emas. Emas dapat digunakan untuk membeli prajurit atau meng-upgrade damage dari prajurit. Setiap level terdiri dari beberapa gelombang. Gelombang datang tergantung dengan waktu. Gelombang semakin lama akan semakin sulit ditandai dengan lebih banyaknya musuh yang datang. Pemilihan dan peletakan prajurit pertahanan merupakan strategi mendasar daripermainan ini.
 
 ## Character
-MonsterDefense memiliki beberapa karakter diantanya prajurit Kerajaan Brevis untuk melindungi anak-anak di Kerjaan Brevis, Mutans yang merupakan musuh yang ingin membunuh anak-anak dari Kerajaan Brevis, dan anak-anak di Kerajaan Brevis yang harus dilindungi
+MonsterDefense memiliki beberapa karakter diantanya prajurit Kerajaan Brevis untuk melindungi anak-anak di Kerjaan Brevis, Mutans yang merupakan musuh yang ingin membunuh anak-anak dari Kerajaan Brevis, dan anak-anak di Kerajaan Brevis yang harus dilindungi.
 
 ## Concept dan Environment
-
+Game ini diiringi dengan musik tertentu untuk menambah suasana pada game.
 
 ## Action
 Pemain menempatkan para prajurit di wilayah yang strategis unuk melindungi Kerajaan Brevis dari serangan Mutans
 
 ## Player
+*Single Player*
 
 ## Teknologi yang Digunakan
+| Teknologi | Fungsi |
+| ----- | ----- |
+| Unity 2017.4.0f1 | Mengatur pembuatan game, pengolahan aset, penggunaan script, dan kolaborasi | 
+| ----- | ----- |
+| Github  | Kolaborasi dan penyimpanan repository |
+| ----- | ----- |
+| Sublime 3.2.2  | Mengetik script menggunakan bahasa C# |
 
 ## Screenshot Game
 
