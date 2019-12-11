@@ -45,7 +45,7 @@ Pemain menempatkan para prajurit di wilayah yang strategis unuk melindungi Keraj
 
 ## Screenshot Game
 Main Menu <br />
-!.[Starting Prompt].(First Page.png) <br />
+!.[Starting Prompt](First Page.png) <br />
 
 Gameplay dan Help <br />
-!.[Gameplay].(Game.png) <br />
+!.[Gameplay](Game.png) <br />
